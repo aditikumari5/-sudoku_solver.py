@@ -29,3 +29,8 @@ Solved Sudoku:
 2 8 7 4 1 9 6 3 5
 3 4 5 2 8 6 1 7 9
 
+git remote add origin https://github.com/aditikumari5/-sudoku-solver.py.git
+git branch -M main
+git push -u origin main
+
+
